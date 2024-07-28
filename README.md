@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aryan11122007
 - 👀 I’m interested in Web-development and App development
 - 🌱 I’m currently learning python programing 
-- 📫 How to reach me gmail; gurulearyan@gmai.com 
+- 📫 How to reach me gmail; gurulearyan@gmail.com 
 
 <!---
 aryan11122007/aryan11122007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
